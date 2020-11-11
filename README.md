@@ -10,7 +10,7 @@ Test App to explore error if returned result is NULL.
 This App accepts input, but does not load it. It returns NULL as result. NULL is not a move stack.
 
 ### Input data
-any
+any, but will be ignored
 
 ### Output data
 NULL
